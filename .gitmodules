@@ -1,0 +1,15 @@
+[submodule "benchmark"]
+	path = benchmark
+	url = https://github.com/qbit-/android_tflite_benchmarks.git
+[submodule "src/t3f"]
+	path = src/t3f
+	url = https://github.com/Bihaqo/t3f.git
+[submodule "src/musco-tf"]
+	path = src/musco-tf
+	url = https://github.com/musco-ai/musco-tf.git
+[submodule "src/Rnnt_Tflite"]
+	path = src/Rnnt_Tflite
+	url = https://github.com/RunFMe/Rnnt_Tflite.git
+[submodule "src/DeepSpeech"]
+	path = src/DeepSpeech
+	url = https://github.com/qbit-/DeepSpeech.git
