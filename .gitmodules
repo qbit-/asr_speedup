@@ -13,3 +13,6 @@
 [submodule "src/DeepSpeech"]
 	path = src/DeepSpeech
 	url = https://github.com/qbit-/DeepSpeech.git
+[submodule "src/Automatic-Speech-Recognition"]
+	path = src/Automatic-Speech-Recognition
+	url = https://github.com/qbit-/Automatic-Speech-Recognition.git
