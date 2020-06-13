@@ -16,6 +16,12 @@
 [submodule "src/t3f"]
 	path = src/t3f
 	url = https://github.com/qbit-/t3f.git
-[submodule "src/tt_keras"]
-	path = src/tt_keras
+[submodule "tt_keras"]
+	path = tt_keras
 	url = https://github.com/qbit-/tt_keras.git
+[submodule "DeepSpeech"]
+	path = DeepSpeech
+	url = https://github.com/mozilla/DeepSpeech.git
+[submodule "Automatic-Speech-Recognition"]
+	path = Automatic-Speech-Recognition
+	url = https://github.com/qbit-/Automatic-Speech-Recognition.git
