@@ -19,3 +19,6 @@
 [submodule "t3f"]
 	path = t3f
 	url = https://github.com/qbit-/t3f.git
+[submodule "asr-compression-pytorch"]
+	path = asr-compression-pytorch
+	url = https://github.com/qbit-/asr-compression-pytorch.git
