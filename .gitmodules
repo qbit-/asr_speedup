@@ -13,9 +13,6 @@
 [submodule "musco-tf"]
 	path = musco-tf
 	url = https://github.com/musco-ai/musco-tf.git
-[submodule "Rnnt_Tflite"]
-	path = Rnnt_Tflite
-	url = https://github.com/RunFMe/Rnnt_Tflite.git
 [submodule "t3f"]
 	path = t3f
 	url = https://github.com/qbit-/t3f.git
