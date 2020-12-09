@@ -19,3 +19,9 @@
 [submodule "asr-compression-pytorch"]
 	path = asr-compression-pytorch
 	url = https://github.com/qbit-/asr-compression-pytorch.git
+[submodule "musco-pytorch"]
+	path = musco-pytorch
+	url = https://github.com/ABaaaC/musco-pytorch.git
+[submodule "flopco-pytorch"]
+	path = flopco-pytorch
+	url = https://github.com/ABaaaC/flopco-pytorch
