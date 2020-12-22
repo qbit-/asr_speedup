@@ -22,3 +22,9 @@
 [submodule "musco-pytorch-private"]
 	path = musco-pytorch-private
 	url = https://github.com/ABaaaC/musco-pytorch-private.git
+[submodule "musco-pytorch"]
+	path = musco-pytorch
+	url = https://github.com/ABaaaC/musco-pytorch.git
+[submodule "flopco-pytorch"]
+	path = flopco-pytorch
+	url = https://github.com/ABaaaC/flopco-pytorch
