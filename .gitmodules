@@ -33,4 +33,4 @@
 	url = git@github.com:qbit-/ReducedOrderNet.git
 [submodule "maxvol_compression_pytorch"]
 	path = maxvol_compression_pytorch
-	url = git@github.com:qbit-/maxvol_compression_pytorch.git
+	url = git@github.com:asr-speedup-team/maxvol_compression_pytorch.git
